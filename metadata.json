@@ -1,0 +1,6 @@
+{
+  "name": "Catch the Falling Stars",
+  "description": "A delightful arcade game where you catch glowing falling stars in a basket under the night sky.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
